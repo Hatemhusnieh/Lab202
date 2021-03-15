@@ -41,5 +41,5 @@ if (q5.toLowerCase()==='yes') {
   //console.log('you hate life apparently!');
   alert('you hate life apparently!');
 }
-document.write('Hello "+n+" !');
+document.write('Hello '+n+' !');
 
