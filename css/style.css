@@ -1,0 +1,40 @@
+footer{
+    background-color: aquamarine;  
+  }
+  header{
+      background-color: azure;
+  }
+  main{
+      background-color: rgb(27, 221, 205);
+      padding: 1%;
+  }
+  body{
+      background-color: rgb(33, 162, 167);
+  
+  }
+  h4{
+      color: rgb(5, 156, 0);
+      font-size: 18pt;
+  }
+  .about {
+      font-weight: bolder;
+      color: rgb(170, 8, 40);
+      font-size: 20pt;
+  }
+  .edu {
+      color: rgb(255, 0, 0); 
+  }
+  .work{
+      color: rgb(221, 76, 76);
+  }
+  .pl{
+      color: rgb(235, 2, 235);
+  }
+  
+  .vis{
+      color: rgb(117, 2, 2);
+  }
+  .rl{
+      color: red;
+  }
+  
