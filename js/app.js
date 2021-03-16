@@ -2,7 +2,7 @@
 let n = prompt('what is your name? ');
 alert('Hello '+ n+' I hope you are doing well');
 let q1 = prompt('Am I above 25?');
-if (q1.toLowerCase()==='yes'|| q1.toUpperCase()) {
+if (q1.toLowerCase()==='yes'|| q1.toUpperCase()==='Y') {
   //console.log('you are correct!!!'); 
   alert('you are correct!!!'); 
 } else {
@@ -10,7 +10,7 @@ if (q1.toLowerCase()==='yes'|| q1.toUpperCase()) {
   alert();
 }
 let q2 = prompt('Did I studied a scientific  major?');
-if (q2.toLowerCase()==='yes'|| q2.toUpperCase()) {
+if (q2.toLowerCase()==='yes'|| q2.toUpperCase(==='Y') {
   //console.log('yup!');
   alert('yup!'); 
 } else {
@@ -18,7 +18,7 @@ if (q2.toLowerCase()==='yes'|| q2.toUpperCase()) {
   alert('unfortunately no !');
 }
 let q3=prompt('Have I worked before?');
-if (q3.toLowerCase()==='yes'|| q3.toUpperCase()) {
+if (q3.toLowerCase()==='yes'|| q3.toUpperCase()==='Y') {
   //console.log('thar is allright');
   alert('thar is allright');
 } else {
@@ -26,7 +26,7 @@ if (q3.toLowerCase()==='yes'|| q3.toUpperCase()) {
   alert('nop! I have');
 }
 let q4=prompt('Do I love anime ?');
-if (q4.toLowerCase()==='yes'|| q4.toUpperCase()) {
+if (q4.toLowerCase()==='yes'|| q4.toUpperCase()==='Y') {
   //console.log('well sure I love it!!');
   alert('well sure I love it!!');
 } else {
@@ -34,7 +34,7 @@ if (q4.toLowerCase()==='yes'|| q4.toUpperCase()) {
   alert('NOW why you do not think so!!!');
 }
 let q5=prompt('Do I game ?');
-if (q5.toLowerCase()==='yes'|| q5.toUpperCase()) {
+if (q5.toLowerCase()==='yes'|| q5.toUpperCase()==='Y') {
   //console.log('Hell Yeah!');
   alert('Hell Yeah!');
 } else {
