@@ -10,7 +10,7 @@ if (q1.toLowerCase()==='yes'|| q1.toUpperCase()==='Y') {
   alert();
 }
 let q2 = prompt('Did I studied a scientific  major?');
-if (q2.toLowerCase()==='yes'|| q2.toUpperCase(==='Y') {
+if (q2.toLowerCase()==='yes'|| q2.toUpperCase()==='Y') {
   //console.log('yup!');
   alert('yup!'); 
 } else {
